@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cards.enka.network.ico",
     "slug": "enka-cards",
     "status": "up",
-    "uptime": "87.26%",
-    "uptimeDay": "87.26%",
-    "uptimeWeek": "87.26%",
-    "uptimeMonth": "87.26%",
-    "uptimeYear": "87.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 861,
     "timeDay": 861,
     "timeWeek": 861,
     "timeMonth": 861,
     "timeYear": 861,
-    "dailyMinutesDown": {
-      "2024-04-28": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "cat-bot",
