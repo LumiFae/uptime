@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cards.enka.network.ico",
     "slug": "enka-cards",
     "status": "up",
-    "uptime": "93.02%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "93.02%",
-    "uptimeMonth": "93.02%",
-    "uptimeYear": "93.02%",
+    "uptime": "95.44%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "95.44%",
+    "uptimeYear": "95.44%",
     "time": 741,
     "timeDay": 741,
     "timeWeek": 741,
     "timeMonth": 741,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2024-04-29": 39
+      "2024-04-29": 29
     }
   },
   {
@@ -60,17 +60,19 @@
     "url": "https://catbot.jayxtq.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/catbot.jayxtq.xyz.ico",
     "slug": "cat-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 342,
-    "timeWeek": 342,
-    "timeMonth": 342,
-    "timeYear": 342,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 329,
+    "timeDay": 329,
+    "timeWeek": 329,
+    "timeMonth": 329,
+    "timeYear": 329,
+    "dailyMinutesDown": {
+      "2024-04-29": 0
+    }
   }
 ]
