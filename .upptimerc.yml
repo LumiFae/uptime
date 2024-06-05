@@ -10,7 +10,7 @@ sites:
   - name: enka.cards
     url: https://cards.enka.network
   - name: cat-bot
-    url: http://catbot.jayxtq.xyz:27000
+    url: https://catbot.jayxtq.xyz
   - name: dembed
     url: https://dembed.page
 
