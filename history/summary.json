@@ -65,19 +65,19 @@
     "url": "https://api.securitycat.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.securitycat.app.ico",
     "slug": "securitycat-api",
-    "status": "down",
-    "uptime": "6.35%",
-    "uptimeDay": "6.35%",
-    "uptimeWeek": "6.35%",
-    "uptimeMonth": "6.35%",
-    "uptimeYear": "6.35%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.77%",
+    "uptimeDay": "3.77%",
+    "uptimeWeek": "3.77%",
+    "uptimeMonth": "3.77%",
+    "uptimeYear": "3.77%",
+    "time": 617,
+    "timeDay": 617,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
     "dailyMinutesDown": {
-      "2024-08-02": 0
+      "2024-08-02": 4
     }
   },
   {
