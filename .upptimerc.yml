@@ -3,16 +3,16 @@ owner: JayXTQ
 repo: uptime
 
 sites:
-  - name: Muusik
-    url: https://muusik.app
-  - name: Muusik API
-    url: https://api.muusik.app
   - name: enka.cards
     url: https://cards.enka.network
   - name: cat-bot
     url: https://catbot.jayxtq.xyz
   - name: dembed
     url: https://dembed.page
+  - name: securitycat-api
+    url: https://api.securitycat.app
+  - name: securitycat
+    url: https://securitycat.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
