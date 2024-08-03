@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1128,
-    "timeDay": 1365,
-    "timeWeek": 1381,
-    "timeMonth": 1351,
-    "timeYear": 1128,
+    "time": 1127,
+    "timeDay": 1332,
+    "timeWeek": 1316,
+    "timeMonth": 1336,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2024-04-29": 45
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 451,
-    "timeDay": 475,
-    "timeWeek": 485,
-    "timeMonth": 469,
-    "timeYear": 451,
+    "time": 450,
+    "timeDay": 464,
+    "timeWeek": 461,
+    "timeMonth": 467,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2024-06-05": 173,
       "2024-04-29": 15
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 871,
-    "timeDay": 1056,
-    "timeWeek": 1050,
-    "timeMonth": 962,
-    "timeYear": 871,
+    "time": 870,
+    "timeDay": 983,
+    "timeWeek": 997,
+    "timeMonth": 956,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2024-05-03": 70
     }
@@ -66,19 +66,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.securitycat.app.ico",
     "slug": "securitycat-api",
     "status": "up",
-    "uptime": "3.77%",
-    "uptimeDay": "3.77%",
-    "uptimeWeek": "3.77%",
-    "uptimeMonth": "3.77%",
-    "uptimeYear": "3.77%",
-    "time": 617,
-    "timeDay": 617,
-    "timeWeek": 617,
-    "timeMonth": 617,
-    "timeYear": 617,
-    "dailyMinutesDown": {
-      "2024-08-02": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 507,
+    "timeDay": 507,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507,
+    "dailyMinutesDown": {}
   },
   {
     "name": "securitycat",
@@ -91,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 566,
-    "timeWeek": 566,
-    "timeMonth": 566,
-    "timeYear": 566,
+    "time": 482,
+    "timeDay": 482,
+    "timeWeek": 482,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   }
 ]
