@@ -101,19 +101,19 @@
     "url": "https://friday.jayxtq.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/friday.jayxtq.xyz.ico",
     "slug": "friday",
-    "status": "down",
-    "uptime": "3.82%",
-    "uptimeDay": "3.82%",
-    "uptimeWeek": "3.82%",
-    "uptimeMonth": "3.82%",
-    "uptimeYear": "3.82%",
-    "time": 433,
-    "timeDay": 433,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "status": "up",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
+    "time": 436,
+    "timeDay": 436,
+    "timeWeek": 436,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2024-08-26": 0
+      "2024-08-26": 48
     }
   }
 ]
