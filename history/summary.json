@@ -25,9 +25,9 @@
     "url": "https://catbot.jayxtq.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/catbot.jayxtq.xyz.ico",
     "slug": "cat-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -37,6 +37,7 @@
     "timeMonth": 466,
     "timeYear": 463,
     "dailyMinutesDown": {
+      "2024-10-25": 0,
       "2024-06-05": 173,
       "2024-04-29": 15
     }
@@ -102,9 +103,9 @@
     "url": "https://friday.jayxtq.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/friday.jayxtq.xyz.ico",
     "slug": "friday",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -114,6 +115,7 @@
     "timeMonth": 461,
     "timeYear": 481,
     "dailyMinutesDown": {
+      "2024-10-25": 0,
       "2024-08-26": 48
     }
   }
