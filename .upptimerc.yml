@@ -6,7 +6,7 @@ sites:
   - name: enka.cards
     url: https://cards.enka.network
   - name: cat-bot
-    url: https://catbot.jayxtq.xyz
+    url: https://catbot.jxtq.moe
   - name: dembed
     url: https://dembed.page
   - name: securitycat-api
@@ -14,7 +14,7 @@ sites:
   - name: securitycat
     url: https://securitycat.app
   - name: Friday
-    url: https://friday.jayxtq.xyz
+    url: https://friday.jxtq.moe
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
