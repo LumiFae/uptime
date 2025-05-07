@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.jayxtq.xyz): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.jxtq.moe): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Lumi](https://jxtq.moe), powered by [Upptime](https://github.com/upptime/upptime).
 
