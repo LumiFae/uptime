@@ -65,19 +65,19 @@
     "url": "https://api.securitycat.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.securitycat.app.ico",
     "slug": "securitycat-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 502,
-    "timeDay": 556,
-    "timeWeek": 518,
+    "timeDay": 525,
+    "timeWeek": 509,
     "timeMonth": 484,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-05-08": 0
+      "2025-05-08": 22
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://securitycat.app",
     "icon": "https://icons.duckduckgo.com/ip3/securitycat.app.ico",
     "slug": "securitycat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 505,
-    "timeDay": 537,
-    "timeWeek": 607,
-    "timeMonth": 495,
+    "timeDay": 521,
+    "timeWeek": 573,
+    "timeMonth": 496,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-05-08": 0
+      "2025-05-08": 22
     }
   },
   {
