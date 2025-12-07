@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.92%",
-    "time": 1377,
-    "timeDay": 1199,
-    "timeWeek": 4678,
-    "timeMonth": 2170,
-    "timeYear": 1393,
+    "time": 1379,
+    "timeDay": 1740,
+    "timeWeek": 4655,
+    "timeMonth": 2184,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2025-11-18": 106,
       "2025-11-13": 23,
@@ -39,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 597,
-    "timeDay": 598,
-    "timeWeek": 620,
+    "time": 598,
+    "timeDay": 745,
+    "timeWeek": 649,
     "timeMonth": 654,
-    "timeYear": 625,
+    "timeYear": 626,
     "dailyMinutesDown": {
       "2025-07-06": 27
     }
@@ -59,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 1105,
-    "timeDay": 906,
-    "timeWeek": 1114,
-    "timeMonth": 1273,
-    "timeYear": 1137,
+    "time": 1106,
+    "timeDay": 1287,
+    "timeWeek": 1098,
+    "timeMonth": 1286,
+    "timeYear": 1138,
     "dailyMinutesDown": {
       "2025-11-20": 26,
       "2025-08-22": 19,
@@ -84,9 +84,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
-    "timeDay": 399,
-    "timeWeek": 480,
-    "timeMonth": 537,
+    "timeDay": 562,
+    "timeWeek": 475,
+    "timeMonth": 540,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2025-05-08": 22
@@ -104,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 506,
-    "timeDay": 430,
-    "timeWeek": 470,
-    "timeMonth": 527,
+    "timeDay": 567,
+    "timeWeek": 472,
+    "timeMonth": 532,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2025-05-08": 22
@@ -124,9 +124,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 597,
-    "timeDay": 621,
-    "timeWeek": 594,
-    "timeMonth": 634,
+    "timeDay": 520,
+    "timeWeek": 568,
+    "timeMonth": 630,
     "timeYear": 617,
     "dailyMinutesDown": {}
   }
