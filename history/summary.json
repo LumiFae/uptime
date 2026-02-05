@@ -6,15 +6,15 @@
     "slug": "enka-cards",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.06%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 1395,
-    "timeDay": 1089,
-    "timeWeek": 1224,
-    "timeMonth": 1348,
-    "timeYear": 1409,
+    "timeDay": 1006,
+    "timeWeek": 1200,
+    "timeMonth": 1334,
+    "timeYear": 1408,
     "dailyMinutesDown": {
       "2026-02-03": 42,
       "2026-01-03": 17,
@@ -42,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 615,
-    "timeDay": 724,
-    "timeWeek": 629,
-    "timeMonth": 619,
-    "timeYear": 626,
+    "timeDay": 445,
+    "timeWeek": 616,
+    "timeMonth": 610,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2025-07-06": 27
     }
@@ -62,9 +62,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1288,
-    "timeDay": 1262,
-    "timeWeek": 1353,
-    "timeMonth": 1249,
+    "timeDay": 1123,
+    "timeWeek": 1311,
+    "timeMonth": 1238,
     "timeYear": 1332,
     "dailyMinutesDown": {
       "2025-12-24": 32,
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 512,
-    "timeDay": 575,
-    "timeWeek": 549,
-    "timeMonth": 547,
+    "timeDay": 499,
+    "timeWeek": 542,
+    "timeMonth": 543,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2025-05-08": 22
@@ -110,10 +110,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 509,
-    "timeDay": 516,
-    "timeWeek": 535,
-    "timeMonth": 537,
-    "timeYear": 510,
+    "timeDay": 494,
+    "timeWeek": 522,
+    "timeMonth": 535,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-05-08": 22
     }
@@ -130,10 +130,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 602,
-    "timeDay": 736,
-    "timeWeek": 595,
-    "timeMonth": 597,
-    "timeYear": 615,
+    "timeDay": 604,
+    "timeWeek": 552,
+    "timeMonth": 594,
+    "timeYear": 614,
     "dailyMinutesDown": {}
   }
 ]
